@@ -11,8 +11,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/da-huin/easy_s3.svg)](https://github.com/da-huin/easy_s3/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/da-huin/easy_s3.svg)](https://github.com/da-huin/easy_s3/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/da-huin/sudoku_ai.svg)](https://github.com/da-huin/sudoku_ai/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/da-huin/sudoku_ai.svg)](https://github.com/da-huin/sudoku_ai'/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -43,7 +43,7 @@
 
 - Title icon made by [Freepik](https://www.flaticon.com/kr/authors/freepik).
 
-- If you have a problem. please make [issue](https://github.com/da-huin/easy_s3/issues).
+- If you have a problem. please make [issue](https://github.com/da-huin/sudoku_ai/issues).
 
 - Please help develop this project 😀
 
