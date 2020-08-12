@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> Simple Sudoku AI Simulator
+<p align="center"> Simple Sudoku AI Simulator. Only core sources exist.
     <br> 
 </p>
 
@@ -27,7 +27,6 @@
 
 - [Getting Started](#getting_started)
 - [Acknowledgments](#acknowledgement)
-
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
